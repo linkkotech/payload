@@ -1,0 +1,9 @@
+node_modules
+.env
+.git
+npm-debug.log
+pnpm-lock.yaml
+README.md
+tests
+dist
+.*.local
