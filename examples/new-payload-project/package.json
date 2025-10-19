@@ -1,0 +1,14 @@
+{
+  "name": "new-payload-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "payload": "latest",
+    "@payloadcms/db-postgres": "latest",
+    "dotenv": "^16.0.0"
+  }
+}
